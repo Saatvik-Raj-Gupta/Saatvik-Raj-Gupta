@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👯 I’m looking to collaborate on [NLP](Image detection)
+- 👯 I’m looking to collaborate on NLP or Image detection
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
