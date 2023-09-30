@@ -19,18 +19,19 @@
 <table>
 <tr>
     <td width="65%">
-                            <b>
-                                <u><h2> About Me :</h2> </u>
-                            </b>
-                    <h3>
-                    I am a student, currently pursing undergraduate degree . From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that <b>no amount of knowledge is enough knowledge</b>. 🧠
-                    </h3>
+        <b>
+            <u><h2> About Me :</h2></u>
+        </b>
+        <p>
+            I am a student, currently pursuing an undergraduate degree. From very early on in my life, I started to fall in love with technology &#128525;. This love has helped me develop a very good technological mindset and given me the curiosity to learn more. I firmly believe that <b>no amount of knowledge is enough knowledge</b> &#129504;.
+        </p>
     </td>
     <td width="35%">
-        <img align="right" src='https://64.media.tumblr.com/e1e8233fe28f4b71b0fb980dd16f44e7/7ad6e582a05cd4ce-39/s1280x1920/fe591cc780748d4ad6a5e975bdc2c7f2e96a838a.jpg' height="180%" width="250%" >
+        <img align="right" src='https://64.media.tumblr.com/e1e8233fe28f4b71b0fb980dd16f44e7/7ad6e582a05cd4ce-39/s1280x1920/fe591cc780748d4ad6a5e975bdc2c7f2e96a838a.jpg' height="180%" width="250%">
     </td>
 </tr>
 </table>
+
 
 - ## Programming Languages  : 
 
