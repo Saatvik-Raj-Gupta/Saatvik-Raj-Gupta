@@ -32,11 +32,7 @@
 </tr>
 </table>
 
-<div align="center">
-        <u><h2> SOMETHINGS I Know-How & What of : </h2></u> 
-</div>
-
-- ## **Programming Languages (Data Structures & Algorithms)** : 
+- ## Programming Languages  : 
 
 <div align="center">
 <table>
@@ -63,28 +59,28 @@
         <span><strong>DATA MANIPULATION</strong></span>
     </td>
      <td align="center">
-        <img height="64px" width="64px" src="https://pandas.pydata.org/"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/pandas-icon.svg"><br>
         <span><strong>Pandas</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/numpy.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/numpy.svg"><br>
         <span><strong>NumPy</strong></span>
     </td>
 </tr>
 <tr>
     <td align="left">
-        <span><strong>DATA visualization</strong></span>
+        <span><strong>DATA VISUALIZATION</strong></span>
     </td>
      <td align="center">
-        <img height="64px" width="64px" src="https://example.com/matplotlib.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg"><br>
         <span><strong>Matplotlib</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/seaborn.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg"><br>
         <span><strong>Seaborn</strong></span>
     </td>
      <td align="center">
-        <img height="64px" width="64px" src="https://example.com/powerbi.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg"><br>
         <span><strong>PowerBI</strong></span>
     </td>
 </tr>
@@ -93,11 +89,11 @@
         <span><strong>MACHINE LEARNING</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/scikit-learn.svg"><br>
+        <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"><br>
         <span><strong>Scikit-Learn</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/scikit-learn.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"><br>
         <span><strong>Pytorch</strong></span>
     </td>
 </tr>
@@ -106,20 +102,22 @@
     <td align="left">
         <span><strong>OTHERS</strong></span>
     </td>
+    <!--
     <td align="center">
         <img height="64px" width="64px" src="https://example.com/tkinter.svg"><br>
         <span><strong>Tkinter</strong></span>
     </td>
+    -->
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/django.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/django-icon.svg"><br>
         <span><strong>Django</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/streamlit.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/streamlit.svg"><br>
         <span><strong>Streamlit</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://example.com/streamlit.svg"><br>
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/opencv.svg"><br>
         <span><strong>Open-CV</strong></span>
     </td>
 </tr>
@@ -153,7 +151,7 @@
         <span><strong>VISUAL<br>STUDIO</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" alt="Unity" src=""><br>
+        <img height="64px" width="64px" alt="Unity" src="https://cdn.svgporn.com/logos/unity.svg"><br>
         <span><strong>Unity</strong></span>
     </td>
     <td align="center">
