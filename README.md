@@ -4,17 +4,14 @@
 </div>
 <br />
 <p align="center">
-        <a href="https://github.com/Ikshvaku01?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ikshvaku01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-        <a href="https://github.com/Ikshvaku01?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ikshvaku01?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-        <a href="http://www.linkedin.com/in/yash-singh-bajetha">
+        <a href="https://github.com/Saatvik-Raj-Gupta?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Saatvik-Raj-Gupta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <a href="https://github.com/Saatvik-Raj-Gupta?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Saatvik-Raj-Gupta?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <a href="https://www.linkedin.com/in/saatvik-gupta-8ab68a26a/">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        <a href="mailto:yashsingh1318@hotmail.com">
-         <img alt="Outlook" title="Email on Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-        </a>
-        <a href="mailto:ikshvaku01.github@skiff.com">
+        <a href="mailto:saatvik.goku@gmail.com">
          <img alt="Skiff" title="Email to skiff" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
 </p>
@@ -45,16 +42,8 @@
 <table>
 <tr>
     <td align="center" style="border: 4px solid black;">
-        <img height="64px" width="64px" src="https://isocpp.org/assets/images/cpp_logo.png"><br>
-        <span><strong>C++</strong></span>
-    </td>
-    <td align="center" style="border: 4px solid black;">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg"><br>
         <span><strong>Java</strong></span>
-    </td>
-    <td align="center" style="border: 4px solid black;">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/rust.svg"><br>
-        <span><strong>Rust</strong></span>
     </td>
     <td align="center" style="border: 4px solid black;">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg"><br>
@@ -65,114 +54,85 @@
 </div>
 
 
-- ## **Frontend Technologies** : 
+- ## **Technologies** : 
 
 <div align="center">
 <table>
 <tr>
     <td align="left">
-        <span><strong>BASICS FOUNDATION</strong><span>
+        <span><strong>DATA MANIPULATION</strong></span>
+    </td>
+     <td align="center">
+        <img height="64px" width="64px" src="https://pandas.pydata.org/"><br>
+        <span><strong>Pandas</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg"><br>
-        <span><strong>HTML</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg"><br>
-        <span><strong>CSS</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg"><br>
-        <span><strong>Javascript</strong></span>
+        <img height="64px" width="64px" src="https://example.com/numpy.svg"><br>
+        <span><strong>NumPy</strong></span>
     </td>
 </tr>
 <tr>
     <td align="left">
-        <span><strong>ADDITIONAL</strong></span>
+        <span><strong>DATA visualization</strong></span>
+    </td>
+     <td align="center">
+        <img height="64px" width="64px" src="https://example.com/matplotlib.svg"><br>
+        <span><strong>Matplotlib</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"><br>
-        <span><strong>Typescript</strong></span>
+        <img height="64px" width="64px" src="https://example.com/seaborn.svg"><br>
+        <span><strong>Seaborn</strong></span>
+    </td>
+     <td align="center">
+        <img height="64px" width="64px" src="https://example.com/powerbi.svg"><br>
+        <span><strong>PowerBI</strong></span>
     </td>
 </tr>
 <tr>
     <td align="left">
-        <span><strong>UI FRAMEWORK</strong></span>
+        <span><strong>MACHINE LEARNING</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg"><br>
-        <span><strong>React</strong></span>
+        <img height="64px" width="64px" src="https://example.com/scikit-learn.svg"><br>
+        <span><strong>Scikit-Learn</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"><br>
-        <span><strong>Next JS</strong></span>
+        <img height="64px" width="64px" src="https://example.com/scikit-learn.svg"><br>
+        <span><strong>Pytorch</strong></span>
     </td>
 </tr>
-<tr>
-    <td align="left">
-        <span><strong>CSS FRAMEWORK</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg"><br>
-        <span><strong>Bootstrap</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"><br>
-        <span><strong>TailwindCSS</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/daisyUI.svg"><br>
-        <span><strong>DaisyUI</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg"><br>
-        <span><strong>MaterialUI</strong></span>
-    </td>
-</tr>
-<tr>
-    <td align="left">
-        <span><strong>STATE MANAGEMENT</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg"><br>
-        <span><strong>Redux</strong></span>
-    </td>
-</tr>
-</table>
-</div>
 
-* ## **Backend Technologies** : 
-
-<div align="center">
-<table>
 <tr>
     <td align="left">
-        <span><strong>SERVER SIDE RUNTIME</strong></span>
+        <span><strong>OTHERS</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"><br>
-        <span><strong>Node JS</strong></span>
+        <img height="64px" width="64px" src="https://example.com/tkinter.svg"><br>
+        <span><strong>Tkinter</strong></span>
+    </td>
+    <td align="center">
+        <img height="64px" width="64px" src="https://example.com/django.svg"><br>
+        <span><strong>Django</strong></span>
+    </td>
+    <td align="center">
+        <img height="64px" width="64px" src="https://example.com/streamlit.svg"><br>
+        <span><strong>Streamlit</strong></span>
+    </td>
+    <td align="center">
+        <img height="64px" width="64px" src="https://example.com/streamlit.svg"><br>
+        <span><strong>Open-CV</strong></span>
     </td>
 </tr>
 <tr>
     <td align="left">
         <span><strong>DATABASE</strong><span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"><br>
-        <span><strong>MONGODB</strong></span>
-    </td>
     <td align="center">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mysql.svg"><br>
         <span><strong>MYSQL</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/prisma.svg"><br>
-        <span><strong>PRISMA</strong></span>
-    </td>
 </tr>
 </table>
 </div>
+
 
 
 * ## **OTHER TECHNOLOGIES USED BY ME** : 
@@ -180,14 +140,6 @@
 <div align="center">
 <table>
 <tr>
-    <td align="center">
-        <img height="64px" width="64px" alt="Obsidian" src="https://cdn.svgporn.com/logos/obsidian-icon.svg"><br>
-        <span><strong>Obsidian</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Firefox" src="https://cdn.svgporn.com/logos/firefox.svg"><br>
-        <span><strong>Firefox</strong></span>
-    </td>
     <td align="center">
         <img height="64px" width="64px" alt="Linux" src="https://cdn.svgporn.com/logos/linux-tux.svg"><br>
         <span><strong>Linux</strong></span>
@@ -201,11 +153,9 @@
         <span><strong>VISUAL<br>STUDIO</strong></span>
     </td>
     <td align="center">
-        <img height="64px" width="64px" alt="Tor" src="https://cdn.svgporn.com/logos/tor-browser.svg"><br>
-        <span><strong>Tor</strong></span>
+        <img height="64px" width="64px" alt="Unity" src=""><br>
+        <span><strong>Unity</strong></span>
     </td>
-</tr>
-<tr>
     <td align="center">
         <img height="64px" width="64px" alt="Gitlab" src="https://cdn.svgporn.com/logos/gitlab.svg"><br>
         <span><strong>Gitlab</strong></span>
@@ -213,22 +163,6 @@
     <td align="center">
         <img height="64px" width="64px" alt="Github" src="https://cdn.svgporn.com/logos/github-octocat.svg"><br>
         <span><strong>Github</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Bitbucket" src="https://cdn.svgporn.com/logos/bitbucket.svg"><br>
-        <span><strong>Bitbucket</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Vim" src="https://cdn.svgporn.com/logos/vim.svg"><br>
-        <span><strong>Vim</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="Signal" src="https://cdn.svgporn.com/logos/signal.svg"><br>
-        <span><strong>Signal</strong></span>
-    </td>
-    <td align="center">
-        <img height="64px" width="64px" alt="UBlock" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UBlock_Origin.svg/1024px-UBlock_Origin.svg.png?20230326050327"><br>
-        <span><strong>UBLock</strong></span>
     </td>
 </tr>
 </table>
@@ -240,23 +174,11 @@
 <table>
 <tr>
     <td align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-    </a>
-    <a href="https://codeforces.com/profile/ikshvaku01">
-        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
-    </a>
-    <a href="https://www.hackerearth.com/@ikshvaku01">
-        <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
-    </a>
-    <a href="https://www.hackerrank.com/ikshvaku01">
+    <a href="https://www.hackerrank.com/saatvik_goku">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a>
-    <a href="https://leetcode.com/ikshvaku01/">
+    <a href="https://leetcode.com/Saatvik_Raj_Gupta/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>
-    <a href="https://www.codingninjas.com/studio/profile/ikshvaku01">
-        <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white">
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
@@ -264,16 +186,6 @@
     <a href="">
         <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/ikshvaku01">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
-    </a>
-    <a href="">
-        <img src="https://atrating.baoshuo.dev/rating?username=ikshvaku01">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/-spoj-337AB7?logo=spoj&logoColor=white&style=for-the-badge">
-    </a>
-    <a>
     </a>
     </td>
 </tr>
@@ -281,33 +193,33 @@
 </div>
 
 ## Some of my targets :
-- At least delve into AI and ML and write an Open Source guide on it with the latest beaming and untouched technologies something like using only c++ or rust for it instead of python.
-- Cybersecurity and Ethical Hacking literate.
-- My own programming language.
-- A simulator of old hardware devices with visual demonstration.
-- Build a AAA Game using own character design and graphic engines.
-- Launch a Best Static library website.
-
+<ul>
+<li>Sentiment Analysis Model: Build sentiment analysis using Naive Bayes on text reviews.</li>
+<li>Basic Chatbot: Create a rule-based chatbot for specific topics.</li>
+<li>Text Generation: Implement text generation using RNNs or transformer models.</li>
+<li>Named Entity Recognition (NER): Develop an NER system to extract entities from text.</li>
+<li>Language Translation Model: Build a Seq2Seq language translation model.</li>
+<li>Image Classification: Create an image classifier using CNNs (CIFAR-10 or ImageNet).</li>
+<li>Object Detection: Implement object detection with YOLO or Faster R-CNN.</li>
+</ul>
 ## Some stats about me :
 
 <p align="center">
-        <img alt="Github Streak" title="Streak Stats" src="https://streak-stats.demolab.com?user=ikshvaku01&theme=gotham&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=467">
-        <img alt="GitHub stats" title="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=ikshvaku01&show_icons=true&text_color=2aa889&bg_color=0c1014&icon_color=599cab&title_color=599cab">
+        <img alt="Github Streak" title="Streak Stats" src="https://streak-stats.demolab.com?user=Saatvik-Raj-Gupta&theme=gotham&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=467">
+        <img alt="GitHub stats" title="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=Saatvik-Raj-Gupta&show_icons=true&text_color=2aa889&bg_color=0c1014&icon_color=599cab&title_color=599cab">
         <br />
         <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ikshvaku01&theme=onedark&column=7&margin-w=12&margin-h=12&row=1">
+        <img src="https://github-profile-trophy.vercel.app/?username=Saatvik-Raj-Gupta&theme=onedark&column=7&margin-w=12&margin-h=12&row=1">
         </div>
 </p>
 
 ## Some of highlighted Repository :
 
 <p align="center">
-        <a href="https://github.com/ikshvaku01/DiginiqueTechLabs_Project">
-         <img alt="DigniqueTechLabs_Project" title="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=ikshvaku01&repo=DiginiqueTechLabs_Project"/>
+        <a href="https://github.com/Saatvik-Raj-Gupta/Classification">
+         <img alt="Classification" title="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Saatvik-Raj_gupta&repo=Classification"/>
         </a>
-        <a href="https://github.com/ikshvaku01/KPMG_CTF">
-         <img alt="KPMG_CTF" title="Readme Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikshvaku01&repo=KPMG_CTF">
+        <a href="https://github.com/Saatvik-Raj-Gupta/Recommender-System">
+         <img alt="Recommender-System" title="Readme Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saatvik-Raj-Gupta&repo=Recommender-System">
         </a>
 </p>
-
-![Ikshvaku01](https://img.shields.io/badge/-⭐%20From%20IKSHVAKU01-337AB7?&style=for-the-badge)
