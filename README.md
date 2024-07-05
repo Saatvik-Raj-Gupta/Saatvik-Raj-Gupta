@@ -1,6 +1,6 @@
 
 
-<h1>Welcome to my Github !👋</h1>
+<center><h1>Welcome to my Github !👋</h1></center>center
 <div align="center">
     ❤️ Programming | 🖤 Gaming | 💙 Anime
 </div>
@@ -203,7 +203,7 @@
 <li>Image Classification: Create an image classifier using CNNs (CIFAR-10 or ImageNet).</li>
 <li>Object Detection: Implement object detection with YOLO or Faster R-CNN.</li>
 </ul>
-## Some stats about me :
+*## Some stats about me :*
 
 <p align="center">
         <img alt="Github Streak" title="Streak Stats" src="https://streak-stats.demolab.com?user=Saatvik-Raj-Gupta&theme=gotham&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=467">
