@@ -1,4 +1,4 @@
-[![An image of @7attu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/7attu)](https://holopin.io/@7attu)
+
 
 <h1>Welcome to my Github !👋</h1>
 <div align="center">
